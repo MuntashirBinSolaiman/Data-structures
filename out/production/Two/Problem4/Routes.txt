@@ -1,0 +1,21 @@
+London <--> Paris
+Amsterdam --> Bristol
+Bristol --> London
+London --> Amsterdam
+Amsterdam --> London
+London <--> Johannesburg
+Johannesburg <--> Perth
+Sydney <--> Brisbane
+Brisbane --> Kuala Lumpur
+Kuala Lumpur --> Brisbane
+Sydney --> New York
+New York --> Sydney
+New York --> California
+California --> New York
+Brisbane --> Delhi
+Delhi --> Beijing
+Beijing --> Brisbane
+Perth --> Sydney
+Sydney --> Melbourne
+Melbourne --> Perth
+Beijing --> Sydney
