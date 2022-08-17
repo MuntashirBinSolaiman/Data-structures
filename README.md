@@ -1,4 +1,3 @@
-# Data-structures
-Various different problems with respect to Data structures subject
+# Data-structure
 
-Each problem is in a seperate branch. There respective README hosts the problem. The solution is provided
+Question and answers to Data structure problems.
